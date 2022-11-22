@@ -1,0 +1,36 @@
+.plateButton {
+    background-color: orange;
+    position: fixed;
+    top: 73%;
+    left: 47%;
+}
+body {
+    background-color: lightblue;
+    padding: 10px;
+}
+img {
+    position: fixed;
+    width: 27%;
+    height: 43%;
+    left: 36%;
+    top: 25%;
+  }
+.Menu {
+    position: fixed;
+    left: 65%;
+}
+.mealButton {
+    position: fixed;
+    top: 20%;
+    left: 43%;
+}
+.at {
+    position: fixed;
+    top: 18.5%;
+    left: 49%;
+}
+.diningHall {
+    position:fixed;
+    top:20%;
+    left:52%;
+}
