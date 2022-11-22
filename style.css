@@ -8,16 +8,9 @@ body {
     background-color: lightblue;
     padding: 10px;
 }
-img {
-    position: fixed;
-    width: 27%;
-    height: 43%;
-    left: 36%;
-    top: 25%;
-  }
 .Menu {
     position: fixed;
-    left: 65%;
+    left: 65%
 }
 .mealButton {
     position: fixed;
@@ -33,4 +26,28 @@ img {
     position:fixed;
     top:20%;
     left:52%;
+}
+.logo {
+    position: fixed;
+    left:5%;
+}
+.nutritionImg {
+    position: fixed;
+    width:200px;
+    height:300px;
+    left: 5%;
+}
+#plateImage {
+    position: fixed;
+    width: 27%;
+    height: 43%;
+    left:36%;
+    top:25%
+}
+#nutritionImage {
+    position: fixed;
+    width: 27%;
+    height:43%;
+    left:5%;
+    top:25%;
 }
